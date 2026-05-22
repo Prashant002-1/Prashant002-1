@@ -36,5 +36,5 @@ Full-time Software Engineer, Data Architect, and AI Engineer roles.
 
 I am especially interested in agent workflows, internal tools, data-heavy products, applied AI, and software that has to survive real operational mess.
 
-Portfolio: https://who-is-prashant.vercel.app  
+Portfolio: https://prashantshah.tech  
 LinkedIn: https://www.linkedin.com/in/prashant210/
