@@ -1,6 +1,6 @@
 # Prashant Shah
 
-Software Engineer - Data Architect - AI Engineer
+Software Engineer · Data Architect · AI Engineer
 
 I build software around messy workflows: state, tools, decisions, and the humans who still need control.
 
